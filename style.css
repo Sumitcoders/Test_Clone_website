@@ -710,7 +710,7 @@ body{
     left: 0;
 
     width: 100% ;
-    height: 700px;
+    height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     align-items: center;
     justify-content: center;
@@ -718,6 +718,8 @@ body{
 }
 
 .pop{
+    position: absolute;
+    top: 6vh;
     display: flex;
     height: 550px;
     width: 1100px;
@@ -728,7 +730,7 @@ body{
 }
 .cross{
     position: absolute;
-    top: 12%;
+    top: 8%;
     left: 85%;
 }
 .cont{
@@ -794,5 +796,3 @@ body{
 .cross:hover{
     opacity: 0.5;
 }
-
-
