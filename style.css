@@ -562,7 +562,7 @@ body{
     background-position: center;
 }
 #im5{
-    background-image: url(src/img/im5.gif);
+    background-image: url(https://storage.googleapis.com/gweb-experiments.appspot.com/8993-Don%27t%20Touch%20The%20Art_HeroImage_02.gif);
     background-size: cover;
     background-position: center;
 }
@@ -794,3 +794,4 @@ body{
 .cross:hover{
     opacity: 0.5;
 }
+
